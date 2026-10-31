@@ -1,6 +1,6 @@
 {
-    "version":  "2.2.0",
-    "zxp":  "AfterVisualsPremiere.zxp?v=2.2.0",
-    "notas":  "Subtitulos con un clic: transcribe aqui mismo (Whisper), sin transcribir antes en Premiere. Sincronizar con opcion Cortar al ras.",
+    "version":  "2.3.0",
+    "zxp":  "AfterVisualsPremiere.zxp?v=2.3.0",
+    "notas":  "Cortar al ras como boton aparte. Subtitulos ajustados a la onda: cada palabra sale cuando suena.",
     "fecha":  "2026-10-31"
 }
