@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.0",
-    "zxp":  "AfterVisualsPremiereTools.zxp?v=1.0.0",
-    "notas":  "Paneles de Premiere: After Visuals (audio, subtitulos, animar) y After Visuals Tools.",
+    "version":  "1.1.0",
+    "zxp":  "AfterVisualsPremiereTools.zxp?v=1.1.0",
+    "notas":  "Subtitulos directos desde la secuencia (sin SRT), sincronizar camara + micro aunque el micro empiece despues, Escalonar con un clic.",
     "fecha":  "2026-10-31"
 }
