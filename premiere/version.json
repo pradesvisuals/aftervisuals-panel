@@ -1,6 +1,6 @@
 {
-    "version":  "2.1.0",
-    "zxp":  "AfterVisualsPremiere.zxp?v=2.1.0",
-    "notas":  "Subtitulos directos desde la secuencia (sin SRT), sincronizar camara + micro aunque el micro empiece despues, Escalonar con un clic.",
+    "version":  "2.2.0",
+    "zxp":  "AfterVisualsPremiere.zxp?v=2.2.0",
+    "notas":  "Subtitulos con un clic: transcribe aqui mismo (Whisper), sin transcribir antes en Premiere. Sincronizar con opcion Cortar al ras.",
     "fecha":  "2026-10-31"
 }
