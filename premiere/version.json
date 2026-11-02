@@ -1,6 +1,6 @@
 {
-    "version":  "2.3.0",
-    "zxp":  "AfterVisualsPremiere.zxp?v=2.3.0",
-    "notas":  "Cortar al ras como boton aparte. Subtitulos ajustados a la onda: cada palabra sale cuando suena.",
-    "fecha":  "2026-10-31"
+    "version":  "2.4.0",
+    "zxp":  "AfterVisualsPremiere.zxp?v=2.4.0",
+    "notas":  "Cortar al ras: quita los silencios entre cada trozo de voz y junta los trozos.",
+    "fecha":  "2026-11-02"
 }
