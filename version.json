@@ -1,6 +1,6 @@
 {
-    "version":  "1.9.0",
-    "zxp":  "AfterVisuals.zxp?v=1.9.0",
-    "notas":  "Nuevas herramientas: 05 Estela (bola con cola: sólida, afilada, difuminada o cometa), 06 Grabar movimiento (dibuja el recorrido con el ratón y crea solo los keyframes importantes) y 07 Rebote (elástico o pelota).",
+    "version":  "1.10.0",
+    "zxp":  "AfterVisuals.zxp?v=1.10.0",
+    "notas":  "Mejoras: la estela va emparentada al objeto, nunca le adelanta y puede tener su mismo grosor; Grabar movimiento con botón Borrar, esquinas redondeadas y el recorrido siempre dentro de la composición; Rebote con vista previa animada, aplastar al rebotar, rebotes máximos y elegir a qué se aplica.",
     "fecha":  "2026-11-23"
 }
