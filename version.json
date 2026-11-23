@@ -1,6 +1,6 @@
 {
-    "version":  "1.7.0",
-    "zxp":  "AfterVisuals.zxp?v=1.7.0",
-    "notas":  "Nuevo botón: Subtítulos sobre su clip. Actualizaciones automáticas.",
-    "fecha":  "2026-10-29"
+    "version":  "1.9.0",
+    "zxp":  "AfterVisuals.zxp?v=1.9.0",
+    "notas":  "Nuevas herramientas: 05 Estela (bola con cola: sólida, afilada, difuminada o cometa), 06 Grabar movimiento (dibuja el recorrido con el ratón y crea solo los keyframes importantes) y 07 Rebote (elástico o pelota).",
+    "fecha":  "2026-11-23"
 }
